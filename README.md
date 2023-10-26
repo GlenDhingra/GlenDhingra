@@ -47,11 +47,9 @@ Here are some ideas to get you started:
 
 ### Let's Connect
 
-📫 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/your-linkedin-url) for professional networking.
+📫 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/glendhingra/) for professional networking.
 
-📧 You can also contact me via email at your@email.com.
-
-🌐 For more about my projects and interests, visit my personal website: [your-website-url.com](https://www.your-website-url.com).
+📧 You can also contact me via email at gdhingra@usc.edu.
 
 </div>
 
