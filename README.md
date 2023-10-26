@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>🎓 Computer Science Grad Student | 💻 Aspiring Software Engineer</p>
 </div>
 
-<img align="right" width="300" src="your-image-url-here.jpg" alt="Glen Dhingra Image">
+<img align="right" width="300" src="GlenLinkedIn2.jpeg" alt="Glen Dhingra Image">
 
 ### About Me
 
